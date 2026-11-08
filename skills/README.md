@@ -4,4 +4,8 @@
 
 目录示例：`skills/my-skill/SKILL.md`。
 
-当前尚未收录 skill。添加方式见[仓库说明](../README.md)。
+| Skill | 用途 |
+| --- | --- |
+| [Bikini Bottom Gross-Up](./bikini-bottom-gross-up/SKILL.md) | 保留主体辨识度，按材质生成早期《海绵宝宝》式二维手绘怪诞特写，或编写可复用提示词。 |
+
+添加方式见[仓库说明](../README.md)。

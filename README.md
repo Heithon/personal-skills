@@ -29,6 +29,10 @@ skills/
 
 选择所需的 skill，将其完整目录安装或复制到所用 AI 工具支持的 skills 目录中。具体依赖和使用方式见各 skill 的 `SKILL.md`。
 
-## 收录状态
+## 已收录 Skills
 
-仓库已初始化，后续逐步加入个人 skills。
+| Skill | 用途 |
+| --- | --- |
+| [Bikini Bottom Gross-Up](./skills/bikini-bottom-gross-up/SKILL.md) | 比奇堡特写：将人物、动物、食物、物件与场景转成二维手绘怪诞特写，也可生成对应提示词。 |
+
+安装后可使用 `$bikini-bottom-gross-up` 调用。

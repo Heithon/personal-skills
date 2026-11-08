@@ -1,0 +1,4 @@
+interface:
+  display_name: "Bikini Bottom Gross-Up"
+  short_description: "将人物、动物与物件重绘为比奇堡式二维怪诞特写，保留主体辨识度"
+  default_prompt: "使用 $bikini-bottom-gross-up 将我上传的图片转换为早期海绵宝宝式二维手绘怪诞特写，自动适配主体与材质，并保留辨识度。"
